@@ -1,0 +1,2 @@
+menu = "rofi -show drun"
+
